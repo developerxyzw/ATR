@@ -1,0 +1,8 @@
+AutoTest, master and master64 license
+
+You can freely redistribute this program.
+You can do with this frogram anything you want, except reverse-engineering; but you always have to mention the author.
+Source code of these executables is avialable only by request.
+
+(c) 2012-2020 Grigoriy Goryunov [telegram @developerxyz]
+All rights reserved.
